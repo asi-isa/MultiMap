@@ -5,5 +5,6 @@ import SwiftUI
         WindowGroup {
             ContentView()
         }
+        .windowStyle(.hiddenTitleBar)
     }
 }
